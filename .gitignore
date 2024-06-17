@@ -129,3 +129,4 @@ dist
 .yarn/install-state.gz
 .pnp.*
 /grind-75/.vscode
+.vscode/settings.json
